@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+ Here you will learn, how to work with team.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+ it' very usefull for new user
 
 ## Getting started
 
